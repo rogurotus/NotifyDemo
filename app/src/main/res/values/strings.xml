@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">NotifyDemo</string>
     <string name="butt_notif">Уведомить</string>
+    <string name="result_text">Result Activity</string>
 </resources>
